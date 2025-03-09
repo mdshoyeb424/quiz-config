@@ -1,6 +1,4 @@
-aspring:
-  application:
-    name: config-default
+
 
 eureka:
   client:
